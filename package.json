@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "node_modules/jest/bin/jest.js"
+  },
+
+  "dependencies": {
+    "jest": "^19.0.2"
+  }
+}
